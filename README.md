@@ -57,10 +57,11 @@ Passionate Data Analyst with a Bachelor's degree in Computer Science Engineering
 - Deep Learning
 - Image Processing
 - Data Analysis
-screenshots:
-https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/2.png
-https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/3.png
-https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/4.png
+  
+** screenshots:**
+-https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/2.png
+-https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/3.png
+-https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/4.png
 
 ### 🎧 Audio Education for Visually Impaired People
 **Tech Stack:** Python, Node.js, Deep Learning
@@ -80,16 +81,17 @@ https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/4.png
 
 Project Description:
 
-Analyzed Swiggy food delivery data using Microsoft Excel to identify sales trends, restaurant performance, customer ratings, and order patterns. Created interactive dashboards with Pivot Tables, Pivot Charts, Slicers, and KPI cards to provide actionable business insights and support data-driven decision-making.
+-Analyzed Swiggy food delivery data using Microsoft Excel to identify sales trends, restaurant performance, customer ratings, and order patterns. Created interactive dashboards with Pivot Tables, Pivot Charts, Slicers, and KPI cards to provide actionable business insights and support data-driven decision-making.
 
 ** Tools Used: **
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Conditional Formatting
-Excel Formulas (SUMIFS, COUNTIFS, XLOOKUP)
-screenshots:https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/Screenshot%202026-08-03%20194913.png
+-Microsoft Excel
+-Pivot Tables
+-Pivot Charts
+-Slicers
+-Conditional Formatting
+-Excel Formulas (SUMIFS, COUNTIFS, XLOOKUP)
+** screenshots: **
+-https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/Screenshot%202026-08-03%20194913.png
 
 ### Vrinda General Store Sales Analysis (Excel)
 
@@ -98,13 +100,14 @@ screenshots:https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/mai
 Analyzed Vrinda General Store sales data using Microsoft Excel to track sales performance, customer trends, product categories, and regional sales. Built an interactive dashboard to visualize key business metrics and support data-driven decision-making.
 
 ** Tools Used:**
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Conditional Formatting
-Excel Formulas (SUMIFS, COUNTIFS, IF, XLOOKUP)
-screenshots:https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/vrindagenstores.png
+-Microsoft Excel
+-Pivot Tables
+-Pivot Charts
+-Slicers
+-Conditional Formatting
+-Excel Formulas (SUMIFS, COUNTIFS, IF, XLOOKUP)
+** screenshots:** 
+-https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/vrindagenstores.png
 
 ## 💼 Internship
 
