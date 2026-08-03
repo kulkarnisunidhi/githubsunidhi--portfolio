@@ -1,5 +1,5 @@
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [Sunidhi Kulkarni | Aspiring Data Analyst]
+title: [Sunidhi Kulkarni]
 description: [Transforming raw data into meaningful insights using SQL, Python, Excel, and Power BI. Building analytical solutions to support data-driven decision-making.]
