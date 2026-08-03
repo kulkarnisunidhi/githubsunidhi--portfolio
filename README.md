@@ -6,17 +6,17 @@ Passionate Data Analyst with a Bachelor's degree in Computer Science Engineering
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 Bachelor of Engineering in Computer Science Engineering
-- 📈 Passionate about Data Analytics and Business Intelligence
-- 💡 Interested in Data Visualization, Machine Learning, and Dashboard Development
+- 📈 Passionate about Data Analytics & Business Intelligence
+- 💡 Interested in Data Visualization, Dashboard Development & Machine Learning
 - 📍 Karnataka, India
-- 🌱 Currently improving my skills in Python, SQL, Power BI, Excel, and Statistics
+- 🌱 Currently learning Advanced Excel, SQL, Power BI, Python & Statistics
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
 ### Programming
 - Python
@@ -24,14 +24,12 @@ Passionate Data Analyst with a Bachelor's degree in Computer Science Engineering
 - Java
 - HTML
 
-### Data Analysis
-- Advanced Excel
+### Data Analytics
+- Microsoft Excel
+- Power BI
 - Statistics
 - Data Cleaning
 - Data Visualization
-
-### BI & Visualization
-- Power BI
 
 ### Tools
 - Visual Studio Code
@@ -41,132 +39,149 @@ Passionate Data Analyst with a Bachelor's degree in Computer Science Engineering
 
 ---
 
-## 📂 Projects
+# 📂 Projects
 
-### 🍚 Rice Image Classification Using Deep Learning
-**Tech Stack:** Python, Deep Learning, Computer Vision
+## 🍚 Rice Image Classification Using Deep Learning
 
-**Project Overview**
-- Developed a rice classification system using deep learning.
-- Classified rice grains based on type and quality.
-- Applied image processing and machine learning techniques.
-- Improved grain quality assessment through automated classification.
+**Tech Stack:** Python • Deep Learning • Computer Vision
 
-**Skills Used**
+### Description
+Developed a deep learning model to classify rice grains based on their type and quality using image processing techniques, improving automated grain quality assessment.
+
+### Skills Used
 - Python
 - Deep Learning
+- Computer Vision
 - Image Processing
 - Data Analysis
-  
-** screenshots:**
--https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/2.png
--https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/3.png
--https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/4.png
 
-### 🎧 Audio Education for Visually Impaired People
-**Tech Stack:** Python, Node.js, Deep Learning
+### Screenshots
 
-**Project Overview**
-- Developed an accessibility solution that converts educational content into audio.
-- Improved learning accessibility for visually impaired users.
-- Utilized AI techniques to process and deliver educational content.
+<p align="center">
+<img src="https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/2.png" width="250"/>
+<img src="https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/3.png" width="250"/>
+<img src="https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/4.png" width="250"/>
+</p>
 
-**Skills Used**
+---
+
+## 🎧 Audio Education for Visually Impaired People
+
+**Tech Stack:** Python • Node.js • Deep Learning
+
+### Description
+Developed an accessibility solution that converts educational content into audio using deep learning, making learning materials more accessible for visually impaired users.
+
+### Skills Used
 - Python
-- Deep Learning
 - Node.js
+- Deep Learning
 - Accessibility Solutions
 
-### Swiggy Data Analysis using Excel
+---
 
-Project Description:
+## 🍔 Swiggy Data Analysis (Excel)
 
--Analyzed Swiggy food delivery data using Microsoft Excel to identify sales trends, restaurant performance, customer ratings, and order patterns. Created interactive dashboards with Pivot Tables, Pivot Charts, Slicers, and KPI cards to provide actionable business insights and support data-driven decision-making.
+### Description
+Analyzed Swiggy food delivery data using Microsoft Excel to identify sales trends, restaurant performance, customer ratings, and order patterns. Built an interactive dashboard to support business decision-making.
 
-** Tools Used: **
--Microsoft Excel
--Pivot Tables
--Pivot Charts
--Slicers
--Conditional Formatting
--Excel Formulas (SUMIFS, COUNTIFS, XLOOKUP)
-** screenshots: **
--https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/Screenshot%202026-08-03%20194913.png
+### Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- SUMIFS, COUNTIFS, XLOOKUP
 
-### Vrinda General Store Sales Analysis (Excel)
+### Dashboard
 
-** Description:  **
-
-Analyzed Vrinda General Store sales data using Microsoft Excel to track sales performance, customer trends, product categories, and regional sales. Built an interactive dashboard to visualize key business metrics and support data-driven decision-making.
-
-** Tools Used:**
--Microsoft Excel
--Pivot Tables
--Pivot Charts
--Slicers
--Conditional Formatting
--Excel Formulas (SUMIFS, COUNTIFS, IF, XLOOKUP)
-** screenshots:** 
--https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/vrindagenstores.png
-
-## 💼 Internship
-
-### Rabsons Info World
-- Worked on practical software development and programming concepts.
-- Strengthened analytical and problem-solving skills.
-
-### Cloud Application Developer
-- Completed Cloud Application Developer training through Roman Technologies.
+<p align="center">
+<img src="https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/Screenshot%202026-08-03%20194913.png" width="700"/>
+</p>
 
 ---
 
-## 📜 Certifications
+## 🛒 Vrinda General Store Sales Analysis (Excel)
 
-- Data Science Course
-- Data Analytics Course
-- Java Full Stack Development (Wipro)
+### Description
+Analyzed Vrinda General Store sales data to identify customer trends, product performance, and regional sales. Designed an interactive dashboard for business insights.
+
+### Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- SUMIFS, COUNTIFS, IF, XLOOKUP
+
+### Dashboard
+
+<p align="center">
+<img src="https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/vrindagenstores.png" width="700"/>
+</p>
 
 ---
 
-## 📈 Currently Learning
+# 💼 Internship
+
+## Rabsons Info World
+- Worked on practical software development projects.
+- Improved analytical and problem-solving skills.
+
+## Cloud Application Developer
+- Successfully completed the Cloud Application Developer course through Roman Technologies.
+
+---
+
+# 📜 Certifications
+
+- 📜 Data Science Course
+- 📜 Data Analytics Course
+- 📜 Java Full Stack Development (Wipro)
+
+---
+
+# 📚 Currently Learning
 
 - Power BI Dashboard Design
 - SQL Query Optimization
 - Python for Data Analytics
-- Data Storytelling
 - Business Analytics
-- Machine Learning for Analytics
+- Data Storytelling
+- Machine Learning
 
 ---
 
-## 🎯 Career Objective
+# 🎯 Career Objective
 
-To begin my career as a Data Analyst where I can apply my analytical skills, SQL, Python, Excel, and Power BI knowledge to solve real-world business problems while continuously learning and growing professionally.
+To begin my career as a **Data Analyst** where I can apply my skills in **Python, SQL, Excel, and Power BI** to solve real-world business problems while continuously learning and growing professionally.
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-📧 Email: kulkarnisunidhi16@gmail.com
+📧 **Email:**  
+kulkarnisunidhi16@gmail.com
 
-💼 LinkedIn:
+💼 **LinkedIn:**  
 https://linkedin.com/in/sunidhi-kulkarni/
 
 ---
 
-## ⭐ GitHub Goals
+# ⭐ GitHub Portfolio
 
-This GitHub repository showcases my journey in Data Analytics, including:
+This repository showcases my work in:
 
-- SQL Projects
-- Power BI Dashboards
-- Excel Dashboards
-- Python Data Analysis
-- Data Cleaning Projects
-- Exploratory Data Analysis (EDA)
-- Machine Learning Projects
-- Case Studies
+- 📊 Excel Dashboards
+- 📈 Power BI Dashboards
+- 🐍 Python Data Analysis
+- 🗄️ SQL Projects
+- 📉 Exploratory Data Analysis (EDA)
+- 🤖 Machine Learning Projects
+- 📚 Case Studies
 
 ---
 
-> "Turning Data into Actionable Insights."
+## 💡 Quote
+
+> **"Turning Data into Actionable Insights."**
