@@ -57,11 +57,10 @@ Developed a deep learning model to classify rice grains based on their type and 
 
 ### Screenshots
 
-<p align="center">
-<img src="https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/2.png" width="250"/>
-<img src="https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/3.png" width="250"/>
-<img src="https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/4.png" width="250"/>
-</p>
+
+-https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/2.png
+-https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/3.png
+-https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/4.png
 
 ---
 
@@ -95,9 +94,7 @@ Analyzed Swiggy food delivery data using Microsoft Excel to identify sales trend
 
 ### Dashboard
 
-<p align="center">
-<img src="https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/Screenshot%202026-08-03%20194913.png" width="700"/>
-</p>
+-https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/Screenshot%202026-08-03%20194913.png
 
 ---
 
@@ -116,9 +113,7 @@ Analyzed Vrinda General Store sales data to identify customer trends, product pe
 
 ### Dashboard
 
-<p align="center">
-<img src="https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/vrindagenstores.png" width="700"/>
-</p>
+-https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/vrindagenstores.png
 
 ---
 
