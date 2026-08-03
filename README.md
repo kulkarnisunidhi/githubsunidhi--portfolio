@@ -2,7 +2,7 @@
 
 ## 📊 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-Passionate Data Analyst with a Bachelor's degree in Computer Science Engineering and hands-on experience in data analysis, visualization, machine learning, and business intelligence. I enjoy transforming raw data into meaningful insights that support data-driven decision-making.
+Passionate Data Analyst with a Bachelor's degree in Computer Science Engineering and hands-on experience in data analysis, data visualization, dashboard development, and machine learning. I enjoy transforming raw data into meaningful insights that drive better business decisions.
 
 ---
 
@@ -12,24 +12,26 @@ Passionate Data Analyst with a Bachelor's degree in Computer Science Engineering
 - 📈 Passionate about Data Analytics & Business Intelligence
 - 💡 Interested in Data Visualization, Dashboard Development & Machine Learning
 - 📍 Karnataka, India
-- 🌱 Currently learning Advanced Excel, SQL, Power BI, Python & Statistics
+- 🌱 Currently learning Advanced Excel, SQL, Power BI & Python
 
 ---
 
 # 🛠️ Technical Skills
 
-### Programming
+### Programming Languages
 - Python
 - SQL
 - Java
 - HTML
 
 ### Data Analytics
-- Microsoft Excel
-- Power BI
+- Advanced Excel
 - Statistics
 - Data Cleaning
 - Data Visualization
+
+### Business Intelligence
+- Power BI
 
 ### Tools
 - Visual Studio Code
@@ -46,7 +48,7 @@ Passionate Data Analyst with a Bachelor's degree in Computer Science Engineering
 **Tech Stack:** Python • Deep Learning • Computer Vision
 
 ### Description
-Developed a deep learning model to classify rice grains based on their type and quality using image processing techniques, improving automated grain quality assessment.
+Developed a deep learning model to classify rice grains based on their type and quality using image processing and computer vision techniques.
 
 ### Skills Used
 - Python
@@ -55,12 +57,13 @@ Developed a deep learning model to classify rice grains based on their type and 
 - Image Processing
 - Data Analysis
 
-### Screenshots
+### Project Screenshots
 
-
--https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/2.png
--https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/3.png
--https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/4.png
+<p align="center">
+  <img src="./2.png" width="250">
+  <img src="./3.png" width="250">
+  <img src="./4.png" width="250">
+</p>
 
 ---
 
@@ -69,20 +72,20 @@ Developed a deep learning model to classify rice grains based on their type and 
 **Tech Stack:** Python • Node.js • Deep Learning
 
 ### Description
-Developed an accessibility solution that converts educational content into audio using deep learning, making learning materials more accessible for visually impaired users.
+Developed an AI-based accessibility solution that converts educational content into audio, making learning more accessible for visually impaired users.
 
 ### Skills Used
 - Python
 - Node.js
 - Deep Learning
-- Accessibility Solutions
+- Accessibility
 
 ---
 
 ## 🍔 Swiggy Data Analysis (Excel)
 
 ### Description
-Analyzed Swiggy food delivery data using Microsoft Excel to identify sales trends, restaurant performance, customer ratings, and order patterns. Built an interactive dashboard to support business decision-making.
+Analyzed Swiggy food delivery data using Microsoft Excel to identify sales trends, restaurant performance, customer ratings, and order patterns. Built an interactive dashboard to support data-driven decision-making.
 
 ### Tools Used
 - Microsoft Excel
@@ -90,18 +93,20 @@ Analyzed Swiggy food delivery data using Microsoft Excel to identify sales trend
 - Pivot Charts
 - Slicers
 - Conditional Formatting
-- SUMIFS, COUNTIFS, XLOOKUP
+- Excel Formulas (SUMIFS, COUNTIFS, XLOOKUP)
 
 ### Dashboard
 
--https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/Screenshot%202026-08-03%20194913.png
+<p align="center">
+  <img src="./Screenshot 2026-08-03 194913.png" width="850">
+</p>
 
 ---
 
 ## 🛒 Vrinda General Store Sales Analysis (Excel)
 
 ### Description
-Analyzed Vrinda General Store sales data to identify customer trends, product performance, and regional sales. Designed an interactive dashboard for business insights.
+Analyzed Vrinda General Store sales data to identify customer trends, product performance, and regional sales. Created an interactive dashboard for business insights.
 
 ### Tools Used
 - Microsoft Excel
@@ -109,19 +114,20 @@ Analyzed Vrinda General Store sales data to identify customer trends, product pe
 - Pivot Charts
 - Slicers
 - Conditional Formatting
-- SUMIFS, COUNTIFS, IF, XLOOKUP
+- Excel Formulas (SUMIFS, COUNTIFS, IF, XLOOKUP)
 
 ### Dashboard
 
--https://github.com/kulkarnisunidhi/githubsunidhi--portfolio/blob/main/vrindagenstores.png
+<p align="center">
+  <img src="./vrindagenstores.png" width="850">
+</p>
 
 ---
 
 # 💼 Internship
 
 ## Rabsons Info World
-- Worked on practical software development projects.
-- Improved analytical and problem-solving skills.
+- Completed internship focused on software development and analytical problem-solving.
 
 ## Cloud Application Developer
 - Successfully completed the Cloud Application Developer course through Roman Technologies.
@@ -138,7 +144,7 @@ Analyzed Vrinda General Store sales data to identify customer trends, product pe
 
 # 📚 Currently Learning
 
-- Power BI Dashboard Design
+- Power BI Dashboard Development
 - SQL Query Optimization
 - Python for Data Analytics
 - Business Analytics
@@ -149,7 +155,7 @@ Analyzed Vrinda General Store sales data to identify customer trends, product pe
 
 # 🎯 Career Objective
 
-To begin my career as a **Data Analyst** where I can apply my skills in **Python, SQL, Excel, and Power BI** to solve real-world business problems while continuously learning and growing professionally.
+Seeking an entry-level **Data Analyst** role where I can apply my knowledge of **Python, SQL, Excel, and Power BI** to solve business problems using data-driven insights while continuously learning and growing professionally.
 
 ---
 
@@ -173,10 +179,7 @@ This repository showcases my work in:
 - 🗄️ SQL Projects
 - 📉 Exploratory Data Analysis (EDA)
 - 🤖 Machine Learning Projects
-- 📚 Case Studies
 
 ---
-
-## 💡 Quote
 
 > **"Turning Data into Actionable Insights."**
